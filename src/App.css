@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  background-color: gray;
+  border: 2px solid blue;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+.person{
+  background-color: khaki;
+  border: 2px solid rebeccapurple;
+  border-radius: 15px;
+  margin: 20px;
+}
+
+.friend{
+  background-color: aquamarine;
+  border: 2px solid navajowhite;
+  border-radius: 15px;
+  margin: 20px;
+}
